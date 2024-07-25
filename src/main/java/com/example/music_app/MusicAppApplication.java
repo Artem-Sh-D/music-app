@@ -3,7 +3,7 @@ package com.example.music_app;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication__
+@SpringBootApplication
 public class MusicAppApplication {
 
 	public static void main(String[] args) {
